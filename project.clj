@@ -1,4 +1,4 @@
-(defproject cond-let "1.0.0"
+(defproject cond-let "1.0.0-rc-1"
   :description "cond-let: a macro that merges cond and let"
   :url "TBD"
   :license {:name "Apache Software License 2.0"
