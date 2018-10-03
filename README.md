@@ -1,5 +1,7 @@
 # com.walmartlabs/cond-let
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.walmartlabs/cond-let.svg)](https://clojars.org/com.walmartlabs/cond-let)
+
 A micro-library around the useful `cond-let` macro.
 
 `cond-let` acts like a `cond`, but adds
@@ -8,6 +10,7 @@ A micro-library around the useful `cond-let` macro.
 This allows conditional code to introduce new local symbols; the result
 is clearer, more linear code, that doesn't make a march for the
 right margin.
+
 
 
 ## Usage
