@@ -2,6 +2,10 @@
 
 [![Clojars Project](https://img.shields.io/clojars/v/com.walmartlabs/cond-let.svg)](https://clojars.org/com.walmartlabs/cond-let)
 
+> Like this?  By publishing it, I found out about [better-cond](https://github.com/Engelberg/better-cond) which has a super-set of the features here.
+  Go use it with my blessing!  I do!
+
+
 A micro-library around the useful `cond-let` macro.
 
 `cond-let` acts like a `cond`, but adds
