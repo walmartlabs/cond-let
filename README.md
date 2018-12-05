@@ -15,7 +15,7 @@ This allows conditional code to introduce new local symbols; the result
 is clearer, more linear code, that doesn't make a march for the
 right margin.
 
-[API Documentation](https://github.com/walmartlabs/schematic/cond-let/)
+[API Documentation](http://walmartlabs.github.io/apidocs/cond-let/)
 
 ## Usage
 
